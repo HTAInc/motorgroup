@@ -5,12 +5,12 @@ export const BANNER_DATA = [
         label:"Main Banner 1"
     },
     {
-        image: "/banner/banner-main.png",
+        image: "/banner/banner-2.webp",
         url:"",
         label:"Main Banner 2"
     },
     {
-        image: "/banner/banner-main.png",
+        image: "/banner/banner-3.jpg",
         url:"",
         label:"Main Baneer 3"
     }
@@ -102,20 +102,20 @@ export const VEHICLE_DATA = [
     {
         title: '2023 volkswagen ID.4X Pure+ #57965101',
         image: '/vehicle-data/volkswagen.jpg',
-        price: '100',
+        price: '120',
         discount: '95',
     },
     {
         title: '2023 changan uni-k IDD 1.5T Zhilling #57050708',
         image: '/vehicle-data/changan.webp',
-        price: '100',
-        discount: '95',
+        price: '115',
+        discount: '110',
     },
     {
         title: '2023 Audi audi Q5 40 e-tron Shining Mech Suit #72036369',
         image: '/vehicle-data/audi.webp',
-        price: '100',
-        discount: '95',
+        price: '145',
+        discount: '110',
     },
 ]
 
